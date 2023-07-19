@@ -22,9 +22,10 @@ const Greeting = () => {
     <div style={{ textAlign: 'center' }}>
       <h1 style={{ color: 'blue' }}>{message}</h1>
       <button
+        type="button"
         style={{
           padding: '10px',
-          background: 'green',
+          background: 'hotpink',
           color: 'white',
           borderRadius: '5px',
           cursor: 'pointer',
@@ -33,8 +34,9 @@ const Greeting = () => {
       >
         Random Greeting
       </button>
+
     </div>
-  )  
+  );
 };
 
 export default Greeting;
