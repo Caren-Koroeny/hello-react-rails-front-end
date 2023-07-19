@@ -153,7 +153,7 @@ Not Available
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Caren-Koroeny/hello-rails-react-backend/issues).
+Feel free to check the [issues page](https://github.com/Caren-Koroeny/hello-react-rails-front-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
